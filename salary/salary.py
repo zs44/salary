@@ -1,4 +1,4 @@
-
+# salary
 
 def assessment(incomes):
     if incomes<1000:
